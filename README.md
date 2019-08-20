@@ -1,5 +1,5 @@
 # 分班、排课算法的Django http服务代码库
-精确分班、排课算法在algorithrmapp/algorithm目录下
+精确分班、排课算法在schedule_class/algorithrmapp/algorithm目录下
 # 安装步骤
 
 1、安装django
