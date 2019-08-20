@@ -1,6 +1,8 @@
 # 分班、排课算法的Django http服务代码库
+
 Python精确分班、排课算法在schedule_class/algorithrmapp/algorithm目录下
-Java 聚类、邻域搜索算法在 目录下
+
+Java 聚类、邻域搜索算法在AssignClass目录下
 
 # Pyhton算法引擎-安装步骤
 
