@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <th>class-1</th>
+        </tr>
+        {% for cla in result%}
+            {% for day in cla%}
+                <tr>
+                    {% for section in day %}
+                        <th>{{ section }}</th>
+                    {% endfor %}
+                </tr>
+            {% endfor %}
+        <tr>
+            <th>class</th>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
