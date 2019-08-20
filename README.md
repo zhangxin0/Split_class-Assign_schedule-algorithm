@@ -1,3 +1,4 @@
+# 分班、排课算法的Django http服务代码库
 # 安装步骤
 
 1、安装django
